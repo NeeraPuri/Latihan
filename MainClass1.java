@@ -8,7 +8,7 @@ public class MainClass1 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in); //input
 		int menu;
-		//arraylist
+		//arraylist 
 		ArrayList <Data>dp = new ArrayList<>() ;
 		
 			dp.add(new Data("PEG01","Yohana","Jakarta", 12345));
@@ -93,3 +93,4 @@ public class MainClass1 {
 	
 	}
 }
+//version 2
