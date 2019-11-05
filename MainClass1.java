@@ -20,7 +20,7 @@ public class MainClass1 {
 			//for (int i=0; i<dp.size();i++){
 				//System.out.println(dp.get(i).getDataInfo());
 			//}
-		
+		//tes
 		ArrayList <Jadwal>jp = new ArrayList<>();
 		
 		jp.add(new Jadwal("Algoritma","31-Oct-19",711, 3)); //0
