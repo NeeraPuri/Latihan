@@ -94,3 +94,4 @@ public class MainClass1 {
 	}
 }
 //version baru buat cloning
+//versi baru
